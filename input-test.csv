@@ -1,4 +1,4 @@
 id,seq,loop,result,retries,started,duration,flagged,name,description,skip_name,skip_reason,log,note
-20170306113311,1,1,pass,0,2017-03-06 11:33:13.616378 -0500 EST,323,false,start,CDRouter Startup,,,start.txt,
-20170306113311,2,1,fail,0,2017-03-06 11:38:36.80782 -0500 EST,21,false,Device2_Download_gpn_1,Verify Device:2 Download Profile using GetParameterNames from top level,,,Device2_Download_gpn_1.txt,
-20170306113311,3,1,pass,0,2017-03-06 11:38:57.512508 -0500 EST,25,false,Device2_Download_gpn_walk_2,Verify Device:2 Download Profile using GetParameterNames walk at each level,,,Device2_Download_gpn_walk_2.txt,
+20170306113311,1,1,pass,0,2017-03-06 11:33:13.616378 -0500 EST,323,false,start,CD__ Startup,,,start.txt,
+20170306113311,2,1,fail,0,2017-03-06 11:38:36.80782 -0500 EST,21,false,__2_Download_--_1,Verify __:2 Download Profile using GetParameterNames from top level,,,__2_Download_--_1.txt,
+20170306113311,3,1,pass,0,2017-03-06 11:38:57.512508 -0500 EST,25,false,__2_Download_--_walk_2,Verify __:2 Download Profile using GetParameterNames walk at each level,,,__2_Download_--_walk_2.txt,
